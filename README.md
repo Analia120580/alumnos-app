@@ -1,4 +1,12 @@
 # 📌 Proyecto Laravel - alumnos-app  
+## 🏫 Datos del proyecto
+
+- **Materia:** Programacion 4
+- **Comisión:** 2.1
+- **Integrantes:**  
+  - Romero Sergio Valentino 
+  - Lopez Analia (Analia Elizabeth López)  
+- **Trabajo realizado:** en **grupo** 
 
 Este proyecto es una aplicación desarrollada en **Laravel 12** que permite el registro, autenticación y gestión de usuarios con diferentes roles (Administrador y Alumno).  
 
